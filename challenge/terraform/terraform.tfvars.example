@@ -1,0 +1,3 @@
+aws_region="east-us-1"
+image="0.0.1" # Using semVer
+cidr_block="10.0.0.0/16"
