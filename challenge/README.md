@@ -1,7 +1,7 @@
 # Pear SRE Exercise: Deploy & Operate a Sample Application.
 
 ## Architecture Diagram
-![image](./img/architecture-diagram.png).
+![image](./img/architecture-diagram.png)
 
 ## 1. Architecture Overview & Design Decisions
 This architecture prioritizes reliability and low operational overhead using AWS managed services.
