@@ -162,3 +162,14 @@ Pipeline runs:
 
 ## Acceptance
 See `docs/ACCEPTANCE.md` for the explicit acceptance checklist and verification commands.
+
+
+# Pearl SRE Exercise Submission
+
+This repository is a fork of the Drafty Bird application.
+
+My solution and supporting artifacts for the SRE exercise can be found in:
+
+`/challenge`
+
+Please refer to the README inside that directory for full details.
